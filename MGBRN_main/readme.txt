@@ -8,7 +8,7 @@ T2BRN_main.py: Trains the backbone network using STGE in both branches.
 
 R2BRN_main.py: Trains the backbone network using SL-TGE in both branches.
 
-MBBRN_main.py: Trains the full method proposed in our paper (MBBRN).
+MBBRN_main.py: Trains the full method proposed in our paper (MGBRN).
 
 MBBRN_eval.py: Performs standalone evaluation of the proposed method.
 
