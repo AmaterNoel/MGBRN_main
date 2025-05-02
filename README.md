@@ -2,7 +2,7 @@
 
 This repository contains the source code associated with our paper:
 
-**"Your Paper Title"**  
+**"Multi-Granularity Query Network with adaptive category feature embedding for Behavior Recognition"**  
 Accepted to *IEEE Transactions on Multimedia (TMM)*, 2025.
 
 ---
