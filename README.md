@@ -1,4 +1,4 @@
-# Project Title
+# MGBRN
 
 This repository contains the source code associated with our paper:
 
